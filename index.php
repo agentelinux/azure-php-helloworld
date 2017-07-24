@@ -24,3 +24,12 @@ Hi there! What's your name?
 
 
 ?>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+A terribly simple "hello world" type program written for learning Azure by Sarah Withee (<a href="https://twitter.com/geekygirlsarah" target="_blank">@geekygirlsarah</a>).
+</body>
+</html>
