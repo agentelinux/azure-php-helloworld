@@ -6,7 +6,7 @@
 
 <?php
 if (isset($_POST["name"]) && $_POST["name"] <> "") {
-    echo "Hello there, " . $_POST["name"];
+    echo "Hello there, " . htmlspecialchars($_POST["name"]);
 }
 else {
 ?>
